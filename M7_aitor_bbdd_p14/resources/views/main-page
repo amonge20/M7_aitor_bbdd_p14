@@ -1,0 +1,5 @@
+@extends('layouts.main-layout')
+@section('page-title', 'Bienvenidos a la tienda de cocina')
+@section('content-area')
+    <h1>Bienvenidos a la tienda de cocina</h1>
+@endsection
